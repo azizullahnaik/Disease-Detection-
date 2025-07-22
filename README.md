@@ -1,10 +1,10 @@
-🩺 Disease Prediction Using Symptoms
+# 🩺 Disease Prediction Using Symptoms
 
 This machine learning project predicts the top 5 possible diseases based on the symptoms provided by the user. It also returns a short description of each disease and suggests precautionary measures.
 
 ---
 
-🔍 Project Goals
+## 🔍 Project Goals
 
 - Predict potential diseases from user-given symptoms  
 - Provide informative descriptions and precaution tips  
@@ -12,7 +12,7 @@ This machine learning project predicts the top 5 possible diseases based on the 
 
 ---
 
-📂 Dataset
+## 📂 Dataset
 
 The model is trained using a combination of medical datasets:
 
@@ -23,7 +23,7 @@ The model is trained using a combination of medical datasets:
 
 ---
 
-🚀 Main Steps
+## 🚀 Main Steps
 
 - Load and clean datasets  
 - Preprocess symptom columns and remove nulls  
@@ -38,7 +38,7 @@ The model is trained using a combination of medical datasets:
 
 ---
 
-📊 Output
+## 📊 Output
 
 ```python
 # Sample Input
